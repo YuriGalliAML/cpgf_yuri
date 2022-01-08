@@ -58,10 +58,42 @@ Há movimentações onde não é possível identificar as datas e ou valores, po
 
 **K (código) – Qual a soma total das movimentações utilizando o CPGF?**
 
+A soma total das movimentações utilizando o CPGF em Outubro de 2021 foi:
+
+> R$ 5619007,95
+
 **L (código) – Qual a soma das movimentações sigilosas?**
+
+A soma total das movimentações sigilosas utilizando o CPGF em Outubro de 2021 foi:
+
+> R$ 3108731,15
 
 **M (código) – Qual o Órgão que mais realizou movimentações sigilosas no período e qual o valor (somado)?**
 
+O Órgão que mais realizou movimentações sigilosas no período foi:
+
+> Departamento de Polícia Federal
+
+e qual o valor (somado) foi:
+
+> R$ 1207131,92
+
 **N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma dos saques realizada por ele? Qual o nome do Orgão desse portador?**
 
+Nome do portador que mais realizou saques no período:
+
+> RAFAEL FERREIRA COSTA
+
+Soma dos saques realizada por ele:
+
+> R$ 24520,00
+
+Nome do Orgão desse portador:
+
+> Instituto Chico Mendes de Conservação da Biodiversidade
+
 **O (código) – Qual o nome do favorecido que mais recebeu compras realizadas utilizando o CPFG?**
+
+Nome do favorecido que mais recebeu compras realizadas utilizando o CPFG:
+
+> ILTON DOS REIS PEREIRA
